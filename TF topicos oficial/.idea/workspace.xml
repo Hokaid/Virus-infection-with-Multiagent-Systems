@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c0d2642-80fd-437e-a125-a407041dab54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="ProjectId" id="1dpEMedNJ8KrCrhGORpd7EfSje0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/classes" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GERAL\OneDrive\Documentos\Esteen\Topicos CC\Agents Projects\TF topicos oficial\src\classes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="host" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+      <module name="TF topicos oficial" />
+      <option name="PROGRAM_PARAMETERS" value="-gui host:TF.HostAgent()" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c0d2642-80fd-437e-a125-a407041dab54" name="Default Changelist" comment="" />
+      <created>1593113587172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593113587172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594333443187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1594333443187" />
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593115406654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1593115406654" />
+    <state x="389" y="105" key="FileChooserDialogImpl" timestamp="1593113749813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593113749813" />
+    <state width="1323" height="520" key="GridCell.Tab.0.bottom" timestamp="1594333813506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="520" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594333813506" />
+    <state width="1323" height="520" key="GridCell.Tab.0.center" timestamp="1594333813505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="520" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594333813505" />
+    <state width="1323" height="520" key="GridCell.Tab.0.left" timestamp="1594333813505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="520" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594333813505" />
+    <state width="1323" height="520" key="GridCell.Tab.0.right" timestamp="1594333813505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="520" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594333813505" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1593113754678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593113754678" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594314157168">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594314157168" />
+    <state x="65" y="0" key="new project wizard" timestamp="1594314357219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1594314357219" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1593810473362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593810473362" />
+  </component>
+</project>
